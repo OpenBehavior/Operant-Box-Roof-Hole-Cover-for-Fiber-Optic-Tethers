@@ -8,4 +8,4 @@ Designed to restrict roof hole opening to prevent subject from climbing out whil
 
 Original posting: https://www.thingiverse.com/thing:5696945
 
-This design was validated by Kevin Chávez-López on 05/23 on behalf of the OpenBehavior project
+This design was validated by Kevin Chávez-López on 05/23 on behalf of the OpenBehavior project.
